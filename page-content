@@ -1,0 +1,298 @@
+<!-- <!-- Page Content
+================================================== --> 
+<div id="content" class="panel-container col-md-12">
+  
+    <!-- Blog Page
+    ================================================== --> 
+    <div id="blog-post">
+        <div class="row">
+            <!--Blog Post-->
+            <div class="col-md-8 post">
+                <div class="blog-image">
+                    <img src="../images/blogs/blog-1.jpg" alt="">
+                </div>
+                <div class="post-content">
+                    <h1 class="blog-title bottom_30 top_30">Doing business like this takes much more effort than doing your own business</h1>
+                    <p>For instance, whenever I go back to the guest house during the morning to copy out the contract, these gentlemen are always still sitting there eating their breakfasts. </p>
+                    <br>
+                    <p>I ought to just try that witht my boss; I'd get kicked out on the spot. But who knows, maybe that would be the best thing for me. He'd fall right off his desk! And it's a funny sort of business to be sitting up there at your desk, talking down at your subordinates. </p>
+                    <br>
+                    <blockquote>"Oh, God", he thought, "what a strenuous career it is that I've chosen! Travelling day in and day out.” </blockquote>
+                    <br>
+                    <p>Doing business like this takes much more effort than doing your own business at home, and on top of that there's the curse of travelling, worries about making train connections, bad and irregular food, contact with different people all the time so that you can never get to know anyone or become friendly with them. It can all go to Hell!</p>
+                    <br>
+                    <p>His room, a proper human room although a little too small, lay peacefully between its four familiar walls. A collection of textile samples lay spread out on the table - Samsa was a travelling salesman - and above it there hung a picture that he had recently cut out of an illustrated magazine and housed in a nice, gilded frame. It showed a lady fitted out with a fur hat and fur boa who sat upright, raising a heavy fur muff that covered the whole of her lower arm towards the viewer.</p>
+                </div>
+                <div class="tags top_30">
+                    <span>Tags:</span>
+                    <a href="#">web,</a>
+                    <a href="#">interface,</a>
+                    <a href="#">design,</a>
+                    <a href="#">photoshop,</a>
+                    <a href="#">creative,</a>
+                    <a href="#">portfolio</a>
+                </div>
+                <!-- Related Post -->
+                <div class="post-list">
+                    <div class="section-title bottom_15 top_60"><span></span><h2>Related Posts</h2></div>
+                    <ul>
+                        <!-- a post -->
+                        <li>
+                            <a href="#">
+                                <div class="info">Web Design <span>April 14, 17</span></div>
+                                <p class="little-text">Gregor then turned to look out the window at the dull weather</p>
+                            </a>
+                        </li>
+                        <!-- a post -->
+                        <li>
+                            <a href="#">
+                                <div class="info">Photography <span>April 14, 17</span></div>
+                                <p class="little-text">Doing business like this takes much more effort than doing your own business at home</p>
+                            </a>
+                        </li>
+                        <!-- a post -->
+                        <li>
+                            <a href="#">
+                                <div class="info">Development <span>April 14, 17</span></div>
+                                <p class="little-text">Ask especially collecting terminated may son expression extremely!</p>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+                <!-- Post Comments -->
+                <div class="post-comment">
+                    <div class="section-title bottom_30 top_60"><span></span><h2>Post Comments</h2></div>
+                    <ul>
+                        <!-- a comment -->
+                        <li>
+                            <div class="row">
+                                <div class="col-md-2 col-sm-2 col-xs-3 person-img">
+                                    <img src="../images/person.jpg" alt="">
+                                </div>
+                                <div class="col-md-10 col-sm-10 col-xs-9 comment-content">
+                                    <div class="name">Charles A. Bullock</div> 
+                                    <span class="date">Aug 26, 2016</span>   
+                                    <p>He must have tried it a hundred times, shut his eyes so that he wouldn't have to look at the floundering legs.</p>
+                                    <a href="#"><i class="fa fa-reply" aria-hidden="true"></i>Reply</a>
+                                </div>
+                            </div>
+                        </li>
+                        <!-- a comment -->
+                        <li>
+                            <div class="row reply">
+                                <div class="col-md-2 col-sm-2 col-xs-3 person-img">
+                                    <img src="../images/person.jpg" alt="">
+                                </div>
+                                <div class="col-md-10 col-sm-10 col-xs-9 comment-content">
+                                    <div class="name">Craig E. Smith</div> 
+                                    <span class="date">Aug 23, 2016</span>   
+                                    <p>He must have tried it a hundred times, shut his eyes so that he wouldn't have to look at the floundering legs.</p>
+                                    <a href="#"><i class="fa fa-reply" aria-hidden="true"></i>Reply</a>
+                                </div>
+                            </div>
+                        </li>
+                        <!-- a comment -->
+                        <li>
+                            <div class="row">
+                                <div class="col-md-2 col-sm-2 col-xs-3 person-img">
+                                    <img src="../images/person.jpg" alt="">
+                                </div>
+                                <div class="col-md-10 col-sm-10 col-xs-9 comment-content">
+                                    <div class="name">Javier D. Phillips</div> 
+                                    <span class="date">Aug 26, 2016</span>   
+                                    <p>He must have tried it a hundred times, shut his eyes so that he wouldn't have to look at the floundering legs.</p>
+                                    <a href="#"><i class="fa fa-reply" aria-hidden="true"></i>Reply</a>
+                                </div>
+                            </div>
+                        </li>
+                    </ul>   
+                </div>
+                <div class="leave-comment">
+                    <div class="section-title bottom_30 top_60"><span></span><h2>Leave a Comment</h2></div>
+                    <form class="site-form">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <input class="site-input" type="input" name="" placeholder="Name">
+                            </div>
+                            <div class="col-md-6">
+                                <input class="site-input" type="input" name="" placeholder="E-mail">
+                            </div>
+                            <div class="col-md-12">
+                                <textarea class="site-area" placeholder="Message"></textarea>
+                            </div>
+                            <div class="col-md-12 top_15 bottom_30">
+                                <button class="site-btn" type="submit">Submit</button>
+                            </div>
+                        </div>
+                    </form>   
+                </div>
+            </div> <!-- post end -->
+            <!--Sidebar-->
+            <div class="col-md-4 blog-sidebar">
+                <!-- Category List -->
+                <div class="category">
+                    <div class="section-title bottom_15 top_15"><span></span><h3>Categories</h3></div>
+                    <ul class="category-list">
+                        <li><a href="#">Web design</a><span>11</span></li>
+                        <li><a href="#">Development</a><span>12</span></li>
+                        <li><a href="#">Photography</a><span>16</span></li>
+                        <li><a href="#">Branding</a><span>16</span></li>
+                        <li><a href="#">Other</a><span>16</span></li>
+                    </ul>
+                </div>
+                <!-- Popular Post -->
+                <div class="post-list">
+                    <div class="section-title bottom_15 top_60"><span></span><h3>Related Posts</h3></div>
+                    <ul>
+                        <!-- a post -->
+                        <li>
+                            <a href="#">
+                                <div class="info">Development <span>Oct 21, 17</span></div>
+                                <p class="little-text">How to vertically center a div for all browsers?</p>
+                            </a>
+                        </li>
+                        <!-- a post -->
+                        <li>
+                            <a href="#">
+                                <div class="info">Web Design <span>April 14, 17</span></div>
+                                <p class="little-text">How to convert a Sketch design file into a layered Photoshop file</p>
+                            </a>
+                        </li>
+                        <!-- a post -->
+                        <li>
+                            <a href="#">
+                                <div class="info">Web Design <span>Mar 18, 17</span></div>
+                                <p class="little-text">The Bookmarkable Photoshop Tutorial for Beginners</p>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+                <!-- Advertisement -->
+                <div class="advertisement">
+                    <div class="section-title bottom_30 top_60"><span></span><h3>Advertisement</h3></div>
+
+                    <img src="../images/image.jpg" alt="">    
+                </div>
+            </div> 
+        </div>
+    </div>
+    
+</div><!-- Content - End -->
+
+blog   <!-- Blog Page
+            ================================================== -->
+                            <div id="blog">
+                                <div class="row">
+                                    <section class="blog col-md-12 bottom_30">
+                                        <div class="col-md-12 content-header">
+                                            <div class="section-title top_30 bottom_15"><span></span>
+                                                <h2>Blog Posts</h2>
+                                            </div>
+                                        </div>
+                                        <div id="grid-blog" class="row">
+                                            <!-- a blog -->
+                                            <div class="cbp-item">
+                                                <a href="blog-posts/blog-1.html" class="blog-box">
+                                                    <div class="blog-img">
+                                                        <img src="images/blogs/blog-6.jpg" alt="">
+                                                    </div>
+                                                    <div class="blog-box-info">
+                                                        <span class="category">General</span>
+                                                        <h2 class="title">See my current workspace</h2>
+                                                        <p class="little-text">The first thing to remember about success
+                                                            is that it is a process.</p>
+                                                        <span class="date">8 Nov 17</span>
+                                                    </div>
+                                                </a>
+                                            </div>
+                                            <!-- a blog -->
+                                            <div class="cbp-item">
+                                                <a href="blog-posts/blog-video-version.html" class="blog-box">
+                                                    <div class="blog-img">
+                                                        <img src="images/blogs/blog-2.jpg" alt="">
+                                                    </div>
+                                                    <div class="blog-box-info">
+                                                        <span class="category">Web Design</span>
+                                                        <h2 class="title">How to become a web designer?</h2>
+                                                        <p class="little-text">He must have tried it a hundred times,
+                                                            shut his eyes so that he wouldn't have to look at the
+                                                            floundering.</p>
+                                                        <span class="date">27 Oct 17</span>
+                                                    </div>
+                                                </a>
+                                            </div>
+                                            <!-- a blog -->
+                                            <div class="cbp-item">
+                                                <a href="blog-posts/blog-music-version.html" class="blog-box">
+                                                    <div class="blog-img">
+                                                        <img src="images/blogs/blog-3.jpg" alt="">
+                                                    </div>
+                                                    <div class="blog-box-info">
+                                                        <span class="category">User İnterface</span>
+                                                        <h2 class="title">Why is it better to work nights?</h2>
+                                                        <p class="little-text">Legs, and only stopped when he began to
+                                                            feel a mild, dull pain there that he had never felt.</p>
+                                                        <span class="date">19 Oct 17</span>
+                                                    </div>
+                                                </a>
+                                            </div>
+                                            <!-- a blog -->
+                                            <div class="cbp-item">
+                                                <a href="blog-posts/blog-video-version.html" class="blog-box">
+                                                    <div class="blog-img">
+                                                        <img src="images/blogs/blog-4.jpg" alt="">
+                                                    </div>
+                                                    <div class="blog-box-info">
+                                                        <span class="category">Photography</span>
+                                                        <h2 class="title">Can you work everywhere?</h2>
+                                                        <p class="little-text">Drops of rain could be heard hitting the
+                                                            pane, which made him feel quite sad..</p>
+                                                        <span class="date">28 Sep 17</span>
+                                                    </div>
+                                                </a>
+                                            </div>
+                                            <!-- a blog -->
+                                            <div class="cbp-item">
+                                                <a href="blog-posts/blog-1.html" class="blog-box">
+                                                    <div class="blog-img">
+                                                        <img src="images/blogs/blog-5.jpg" alt="">
+                                                    </div>
+                                                    <div class="blog-box-info">
+                                                        <span class="category">Other</span>
+                                                        <h2 class="title">How to connect your imac or macBook</h2>
+                                                        <p class="little-text">However hard he threw himself onto his
+                                                            right, he always rolled back to where he was.</p>
+                                                        <span class="date">19 Agu 17</span>
+                                                    </div>
+                                                </a>
+                                            </div>
+                                            <!-- a blog -->
+
+                                            <div class="cbp-item">
+                                                <a href="blog-posts/blog-1.html" class="blog-box">
+                                                    <div class="blog-img">
+                                                        <img src="images/blogs/blog-6.jpg" alt="">
+                                                    </div>
+                                                    <div class="blog-box-info">
+                                                        <span class="category">Work Space</span>
+                                                        <h2 class="title">I'm starting a new project</h2>
+                                                        <p class="little-text">The first thing to remember about success
+                                                            is that it is a process...</p>
+                                                        <span class="date">1 Jul 17</span>
+                                                    </div>
+                                                </a>
+                                            </div>
+                                        </div>
+                                        <!-- load more button -->
+                                        <div id="load-posts" class="cbp-l-loadMore-button top_60">
+                                            <a href="load-more/blog-posts.html" class="cbp-l-loadMore-link site-btn"
+                                                rel="nofollow">
+                                                <span class="cbp-l-loadMore-defaultText">Load More (<span
+                                                        class="cbp-l-loadMore-loadItems">3</span>)</span>
+                                                <span class="cbp-l-loadMore-loadingText">Loading...</span>
+                                                <span class="cbp-l-loadMore-noMoreLoading">No More Works</span>
+                                            </a>
+                                        </div>
+                                    </section>
+                                </div>
+                            </div>
